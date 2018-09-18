@@ -8,6 +8,10 @@ Originally, it'd play some music (Estranged from Guns n' Roses, Altitudes from
 Jason Becker and others) and had a gradient starting and ending with blue, and
 white in the middle.
 
+## Check it out
+
+It's live at https://jr-first.herokuapp.com/.
+
 ## Running the project
 
 It has a very simple NodeJS setup.
