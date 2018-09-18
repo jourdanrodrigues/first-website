@@ -1,0 +1,17 @@
+{
+  "name": "first-website",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jourdanrodrigues/my-very-first-project.git"
+  },
+  "author": "Jourdan Rodrigues <thiagojourdan@gmail.com>",
+  "license": "MIT"
+}
